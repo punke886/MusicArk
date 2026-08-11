@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "version_code": 8,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.2.apk",
-  "notes": "v0.4.2: 自更新多镜像 fallback(jsDelivr+gcore+GitHub release)，解决 CDN 缓存延迟导致用户收到旧版本"
+  "version": "0.4.4",
+  "version_code": 10,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.4.apk",
+  "notes": "v0.4.4: 检查更新改为多镜像取最大 versionCode，解决 jsDelivr 缓存旧版本导致漏更新"
 }
