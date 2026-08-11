@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "version_code": 7,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.1.apk",
-  "notes": "v0.4.1: 新增播放页音质切换(flac/320k/192k/128k)"
+  "version": "0.4.2",
+  "version_code": 8,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.2.apk",
+  "notes": "v0.4.2: 自更新多镜像 fallback(jsDelivr+gcore+GitHub release)，解决 CDN 缓存延迟导致用户收到旧版本"
 }
