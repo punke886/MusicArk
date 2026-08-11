@@ -1,6 +1,6 @@
 {
-  "version": "0.4.4",
-  "version_code": 10,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.4.apk",
-  "notes": "v0.4.4: 检查更新改为多镜像取最大 versionCode，解决 jsDelivr 缓存旧版本导致漏更新"
+  "version": "0.4.5",
+  "version_code": 11,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.5.apk",
+  "notes": "v0.4.5: 播放架构增强(多音质链+跨源兜底)，全新桌面图标(Apple Music风格红紫渐变)，UI矢量图标化(播放页/导航/首页)"
 }
