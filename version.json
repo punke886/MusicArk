@@ -1,6 +1,6 @@
 {
-  "version": "0.3.3",
-  "version_code": 5,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.3.3.apk",
-  "notes": "v0.3.3: 更新源改为 jsDelivr CDN 加速地址，国内直连 GitHub raw 不再失败"
+  "version": "0.4.0",
+  "version_code": 6,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.0.apk",
+  "notes": "v0.4.0 完整体: 后台播放+通知栏控制(Media3前台服务)、播放历史、歌单管理(创建/编辑/添加)、定时关闭、深浅色主题、5段均衡器、多源切换、本地扫描增强、播放页队列"
 }
