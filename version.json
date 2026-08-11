@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "version_code": 3,
-  "apk": "https://github.com/punke886/MusicArk/releases/download/v0.3.1/MusicArk-0.3.1.apk",
-  "notes": "v0.3.1: 修复导航（播放页返回按钮+系统返回）、下载到公共 Music/MusicArk 目录、错误提示优化"
+  "version": "0.3.2",
+  "version_code": 4,
+  "apk": "https://github.com/punke886/MusicArk/releases/download/v0.3.2/MusicArk-0.3.2.apk",
+  "notes": "v0.3.2: 修复更新源404（默认GitHub地址）、新增本地音乐扫描、四大Tab导航重构、播放页高斯模糊背景+切歌动画、本地播放修复、下载到公共Music目录"
 }
