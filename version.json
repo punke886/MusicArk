@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "version_code": 4,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.3.2.apk",
-  "notes": "v0.3.2: 修复更新源404（默认GitHub地址）、新增本地音乐扫描、四大Tab导航重构、播放页高斯模糊背景+切歌动画、本地播放修复、下载到公共Music目录"
+  "version": "0.3.3",
+  "version_code": 5,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.3.3.apk",
+  "notes": "v0.3.3: 更新源改为 jsDelivr CDN 加速地址，国内直连 GitHub raw 不再失败"
 }
