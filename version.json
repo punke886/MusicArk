@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "version_code": 2,
-  "apk": "https://github.com/punke886/MusicArk/releases/download/v0.3.0/MusicArk-0.3.0.apk",
-  "notes": "v0.3.0: 搜索/播放/歌词/收藏/下载/自更新 全功能版"
+  "version": "0.3.1",
+  "version_code": 3,
+  "apk": "https://github.com/punke886/MusicArk/releases/download/v0.3.1/MusicArk-0.3.1.apk",
+  "notes": "v0.3.1: 修复导航（播放页返回按钮+系统返回）、下载到公共 Music/MusicArk 目录、错误提示优化"
 }
