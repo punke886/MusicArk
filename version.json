@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "version_code": 8,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.2.apk",
-  "notes": "v0.4.2: 自更新多镜像 fallback(jsDelivr+gcore+GitHub release)，解决 CDN 缓存延迟导致用户收到旧版本"
+  "version": "0.4.3",
+  "version_code": 9,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.3.apk",
+  "notes": "v0.4.3: 自更新 fallback 列表优化(加入 ghfast.top 国内加速镜像)"
 }
