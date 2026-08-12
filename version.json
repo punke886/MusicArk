@@ -1,6 +1,6 @@
 {
-  "version": "0.4.5",
-  "version_code": 11,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.5.apk",
-  "notes": "v0.4.5: 播放架构增强(多音质链+跨源兜底)，全新桌面图标(Apple Music风格红紫渐变)，UI矢量图标化(播放页/导航/首页)"
+  "version": "0.4.6",
+  "version_code": 12,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.6.apk",
+  "notes": "v0.4.6: 接入开源 NeteaseCloudMusicApi 稳定音源（设置页可配 API 地址），彻底解决网络歌曲播放失败"
 }
