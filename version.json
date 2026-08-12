@@ -1,6 +1,6 @@
 {
-  "version": "0.4.7",
-  "version_code": 13,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.7.apk",
-  "notes": "v0.4.7: 内置多候选开源音源(无需配置，自动切换)；模仿MusicFree音源列表模式"
+  "version": "0.4.8",
+  "version_code": 14,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.8.apk",
+  "notes": "v0.4.8: 首页全面升级(搜索栏+推荐歌单卡片流+排行榜)，在线歌单详情浏览播放；接入NcmApi完整生态(/personalized /toplist /playlist/detail)"
 }
