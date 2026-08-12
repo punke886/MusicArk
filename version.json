@@ -1,6 +1,6 @@
 {
-  "version": "0.4.6",
-  "version_code": 12,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.6.apk",
-  "notes": "v0.4.6: 接入开源 NeteaseCloudMusicApi 稳定音源（设置页可配 API 地址），彻底解决网络歌曲播放失败"
+  "version": "0.4.7",
+  "version_code": 13,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.7.apk",
+  "notes": "v0.4.7: 内置多候选开源音源(无需配置，自动切换)；模仿MusicFree音源列表模式"
 }
