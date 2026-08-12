@@ -1,6 +1,6 @@
 {
-  "version": "0.4.8",
-  "version_code": 14,
-  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.8.apk",
-  "notes": "v0.4.8: 首页全面升级(搜索栏+推荐歌单卡片流+排行榜)，在线歌单详情浏览播放；接入NcmApi完整生态(/personalized /toplist /playlist/detail)"
+  "version": "0.4.9",
+  "version_code": 15,
+  "apk": "https://cdn.jsdelivr.net/gh/punke886/MusicArk@main/release/MusicArk-0.4.9.apk",
+  "notes": "v0.4.9: 丝滑动画升级——Tab切换滑动+淡入淡出，迷你播放条(矢量按钮+进度线+出现动画)，播放按钮按压反馈"
 }
